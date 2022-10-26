@@ -1,0 +1,1332 @@
+{
+  "info": {
+    "year": 2020,
+    "version": "1.0",
+    "description": "Images of printed documents taken under variety of real-world conditions",
+    "contributor": "Karya Inc",
+    "date_created": "2022/10/20"
+  },
+  "licenses": [
+    {
+      "id": 1,
+      "name": "KPL Attribution-NonCommercial-ShareAlike-FreeSoftware (BY-NC-SA-FS) 1.0",
+      "url": "https://karya.in/kpl3.txt"
+    }
+  ],
+  "categories": [
+    {
+      "supercategory": "printeddocument",
+      "id": 1,
+      "name": "book"
+    },
+    {
+      "supercategory": "printeddocument",
+      "id": 2,
+      "name": "newspaper"
+    }
+  ],
+  "images": [
+    {
+      "id": "07daedf7-49d9-479c-ac4a-c0a375c998ec",
+      "width": 960,
+      "height": 1280,
+      "license": 1,
+      "filename": "07daedf7-49d9-479c-ac4a-c0a375c998ec.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "18bca4e3-eba7-4912-84ea-69ed664f6892",
+      "width": 960,
+      "height": 1280,
+      "license": 1,
+      "filename": "18bca4e3-eba7-4912-84ea-69ed664f6892.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "19027f38-289d-4391-91b5-03b8901baf3c",
+      "width": 1024,
+      "height": 768,
+      "license": 1,
+      "filename": "19027f38-289d-4391-91b5-03b8901baf3c.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "1b422f6b-1153-498a-958e-415ebb4d9fe9",
+      "width": 144,
+      "height": 176,
+      "license": 1,
+      "filename": "1b422f6b-1153-498a-958e-415ebb4d9fe9.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "1f782532-7c34-4d15-a00e-590bcd0252e9",
+      "width": 1280,
+      "height": 960,
+      "license": 1,
+      "filename": "1f782532-7c34-4d15-a00e-590bcd0252e9.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "28aaaea6-4f52-40b8-a7ae-149a54d6e5c0",
+      "width": 144,
+      "height": 176,
+      "license": 1,
+      "filename": "28aaaea6-4f52-40b8-a7ae-149a54d6e5c0.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "2bfaabea-2511-4cc2-b9d3-944c619360dd",
+      "width": 1088,
+      "height": 1088,
+      "license": 1,
+      "filename": "2bfaabea-2511-4cc2-b9d3-944c619360dd.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "33fa728f-df32-4e89-9d00-b525fdbde134",
+      "width": 640,
+      "height": 480,
+      "license": 1,
+      "filename": "33fa728f-df32-4e89-9d00-b525fdbde134.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "393d692b-fe67-4367-8be4-0ade3c7cce49",
+      "width": 960,
+      "height": 1280,
+      "license": 1,
+      "filename": "393d692b-fe67-4367-8be4-0ade3c7cce49.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "42a17e7b-fbe9-4242-89fa-634e57f2dc18",
+      "width": 960,
+      "height": 1280,
+      "license": 1,
+      "filename": "42a17e7b-fbe9-4242-89fa-634e57f2dc18.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "4d2eaa1b-b9ed-4dae-a577-beba513020ee",
+      "width": 1280,
+      "height": 960,
+      "license": 1,
+      "filename": "4d2eaa1b-b9ed-4dae-a577-beba513020ee.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "50b4b333-e421-46af-a2d9-78b6157e79e3",
+      "width": 1280,
+      "height": 960,
+      "license": 1,
+      "filename": "50b4b333-e421-46af-a2d9-78b6157e79e3.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "5e5736e0-2943-4d3b-93f4-d6b63622fad9",
+      "width": 1088,
+      "height": 1088,
+      "license": 1,
+      "filename": "5e5736e0-2943-4d3b-93f4-d6b63622fad9.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "6495605f-93c6-4a97-a384-52d78f27b482",
+      "width": 1280,
+      "height": 960,
+      "license": 1,
+      "filename": "6495605f-93c6-4a97-a384-52d78f27b482.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "6751dbf5-53c8-46f9-98a2-826aecaaadad",
+      "width": 1024,
+      "height": 1280,
+      "license": 1,
+      "filename": "6751dbf5-53c8-46f9-98a2-826aecaaadad.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "6a11d17a-141e-493d-83ca-7b910b56ff1b",
+      "width": 1280,
+      "height": 960,
+      "license": 1,
+      "filename": "6a11d17a-141e-493d-83ca-7b910b56ff1b.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "72887861-ffa5-4456-8130-0353b9172803",
+      "width": 1280,
+      "height": 960,
+      "license": 1,
+      "filename": "72887861-ffa5-4456-8130-0353b9172803.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "756762b5-1554-4c85-9425-b1ba26e5b584",
+      "width": 1088,
+      "height": 1088,
+      "license": 1,
+      "filename": "756762b5-1554-4c85-9425-b1ba26e5b584.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "7c52705a-552b-4eed-8ee2-f969a116b9c5",
+      "width": 768,
+      "height": 1024,
+      "license": 1,
+      "filename": "7c52705a-552b-4eed-8ee2-f969a116b9c5.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "831c25e3-675c-45e4-828c-b557cf7526ca",
+      "width": 960,
+      "height": 1280,
+      "license": 1,
+      "filename": "831c25e3-675c-45e4-828c-b557cf7526ca.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "85b2c12e-73d0-445c-bfa2-383c1d913b4a",
+      "width": 1280,
+      "height": 960,
+      "license": 1,
+      "filename": "85b2c12e-73d0-445c-bfa2-383c1d913b4a.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "860feb07-1f8f-47b6-8fff-a7274f702512",
+      "width": 1280,
+      "height": 960,
+      "license": 1,
+      "filename": "860feb07-1f8f-47b6-8fff-a7274f702512.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "86e66885-8efd-4e64-a3ed-2ebf2164da23",
+      "width": 1080,
+      "height": 1080,
+      "license": 1,
+      "filename": "86e66885-8efd-4e64-a3ed-2ebf2164da23.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "8d29f6db-53d0-4997-9d3d-588b346a3107",
+      "width": 960,
+      "height": 1280,
+      "license": 1,
+      "filename": "8d29f6db-53d0-4997-9d3d-588b346a3107.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "92b470eb-a815-441e-869d-df6775308c6a",
+      "width": 1088,
+      "height": 1088,
+      "license": 1,
+      "filename": "92b470eb-a815-441e-869d-df6775308c6a.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "94a339c9-5220-4d8c-a103-c757a785fbc5",
+      "width": 768,
+      "height": 1024,
+      "license": 1,
+      "filename": "94a339c9-5220-4d8c-a103-c757a785fbc5.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "a123bafc-aaaa-4d0f-85e0-ece314424136",
+      "width": 960,
+      "height": 1280,
+      "license": 1,
+      "filename": "a123bafc-aaaa-4d0f-85e0-ece314424136.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "a72fbd45-3d90-4b0a-8e5e-ad8acdc36224",
+      "width": 960,
+      "height": 1280,
+      "license": 1,
+      "filename": "a72fbd45-3d90-4b0a-8e5e-ad8acdc36224.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "aad10e13-abb4-410c-9ef0-b338a175c476",
+      "width": 1280,
+      "height": 960,
+      "license": 1,
+      "filename": "aad10e13-abb4-410c-9ef0-b338a175c476.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "ad4412ce-6e92-4249-ba99-b2217321a90a",
+      "width": 1088,
+      "height": 1088,
+      "license": 1,
+      "filename": "ad4412ce-6e92-4249-ba99-b2217321a90a.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "b035007a-834d-4e75-847e-8c6d737f7e73",
+      "width": 960,
+      "height": 1280,
+      "license": 1,
+      "filename": "b035007a-834d-4e75-847e-8c6d737f7e73.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "b29146dc-1a36-4f2a-a02f-dd33b095ebc2",
+      "width": 960,
+      "height": 1280,
+      "license": 1,
+      "filename": "b29146dc-1a36-4f2a-a02f-dd33b095ebc2.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "b6ea1592-00c8-4cf5-8f8b-90f022237663",
+      "width": 768,
+      "height": 1024,
+      "license": 1,
+      "filename": "b6ea1592-00c8-4cf5-8f8b-90f022237663.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "b9903e7f-987c-4fd0-87ec-66503bfa3004",
+      "width": 1280,
+      "height": 960,
+      "license": 1,
+      "filename": "b9903e7f-987c-4fd0-87ec-66503bfa3004.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "bc5157b5-fda5-489b-8f04-5685ea334e03",
+      "width": 1280,
+      "height": 960,
+      "license": 1,
+      "filename": "bc5157b5-fda5-489b-8f04-5685ea334e03.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "bd9bc3f2-c969-4199-b36f-29b03de7d30a",
+      "width": 960,
+      "height": 1280,
+      "license": 1,
+      "filename": "bd9bc3f2-c969-4199-b36f-29b03de7d30a.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "c82d9b54-31e5-48db-8e93-d888661110bf",
+      "width": 960,
+      "height": 1280,
+      "license": 1,
+      "filename": "c82d9b54-31e5-48db-8e93-d888661110bf.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "cb5cce7d-222f-4bb0-909e-01e33bb5d46f",
+      "width": 144,
+      "height": 176,
+      "license": 1,
+      "filename": "cb5cce7d-222f-4bb0-909e-01e33bb5d46f.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "d37bc305-c104-497c-b069-c452b6f4c5c5",
+      "width": 1088,
+      "height": 1088,
+      "license": 1,
+      "filename": "d37bc305-c104-497c-b069-c452b6f4c5c5.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "d9ff8276-9405-4571-8e9f-d32153201308",
+      "width": 768,
+      "height": 1024,
+      "license": 1,
+      "filename": "d9ff8276-9405-4571-8e9f-d32153201308.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "da0bc551-8400-4953-b777-64b301169939",
+      "width": 1280,
+      "height": 720,
+      "license": 1,
+      "filename": "da0bc551-8400-4953-b777-64b301169939.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "e6baa678-80b6-4e61-a47c-97cf3b1a1b38",
+      "width": 1024,
+      "height": 768,
+      "license": 1,
+      "filename": "e6baa678-80b6-4e61-a47c-97cf3b1a1b38.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "eafddd9f-a6eb-4537-a67f-9044ab632725",
+      "width": 1280,
+      "height": 960,
+      "license": 1,
+      "filename": "eafddd9f-a6eb-4537-a67f-9044ab632725.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "ebdd73ed-26af-4cd9-bf5e-6c51cca9c32f",
+      "width": 1280,
+      "height": 960,
+      "license": 1,
+      "filename": "ebdd73ed-26af-4cd9-bf5e-6c51cca9c32f.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "ec733014-e198-40bb-b7a8-b7ba01071678",
+      "width": 960,
+      "height": 1280,
+      "license": 1,
+      "filename": "ec733014-e198-40bb-b7a8-b7ba01071678.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "f0e543ec-9573-4e3f-b9ed-b695fc6f2002",
+      "width": 1280,
+      "height": 960,
+      "license": 1,
+      "filename": "f0e543ec-9573-4e3f-b9ed-b695fc6f2002.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "f1e7e1b6-ec5e-47d9-961d-916122fade00",
+      "width": 1280,
+      "height": 960,
+      "license": 1,
+      "filename": "f1e7e1b6-ec5e-47d9-961d-916122fade00.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "f27415ba-74e8-4c24-867a-73bdc20c559a",
+      "width": 960,
+      "height": 1280,
+      "license": 1,
+      "filename": "f27415ba-74e8-4c24-867a-73bdc20c559a.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "f3f18270-f664-44b9-9aca-246b6971c8a2",
+      "width": 1280,
+      "height": 960,
+      "license": 1,
+      "filename": "f3f18270-f664-44b9-9aca-246b6971c8a2.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "f65d344a-eaf7-4ae3-8f08-1995753e21c5",
+      "width": 1280,
+      "height": 960,
+      "license": 1,
+      "filename": "f65d344a-eaf7-4ae3-8f08-1995753e21c5.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "05d9179a-888e-47b0-a42e-3245202189fc",
+      "width": 1280,
+      "height": 960,
+      "license": 1,
+      "filename": "05d9179a-888e-47b0-a42e-3245202189fc.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "0701753c-d19d-4a18-bb00-26ff382d0b76",
+      "width": 768,
+      "height": 1024,
+      "license": 1,
+      "filename": "0701753c-d19d-4a18-bb00-26ff382d0b76.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "09cdb65f-3a48-4ebd-8c95-01beb680fef7",
+      "width": 1280,
+      "height": 960,
+      "license": 1,
+      "filename": "09cdb65f-3a48-4ebd-8c95-01beb680fef7.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "0aa2df67-8ac8-4d2f-92b2-9736bed97168",
+      "width": 1280,
+      "height": 960,
+      "license": 1,
+      "filename": "0aa2df67-8ac8-4d2f-92b2-9736bed97168.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "1cfd6b8b-d6a7-4fb7-ab81-a72119a681f0",
+      "width": 1280,
+      "height": 960,
+      "license": 1,
+      "filename": "1cfd6b8b-d6a7-4fb7-ab81-a72119a681f0.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "26315895-df10-4b4d-b0b6-c69fe0ef92b5",
+      "width": 768,
+      "height": 1024,
+      "license": 1,
+      "filename": "26315895-df10-4b4d-b0b6-c69fe0ef92b5.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "2af0d631-27f5-464c-9f5c-18a63622955b",
+      "width": 1280,
+      "height": 960,
+      "license": 1,
+      "filename": "2af0d631-27f5-464c-9f5c-18a63622955b.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "32170dc9-0c9d-4e4b-9c60-cf10b40e8af3",
+      "width": 1280,
+      "height": 960,
+      "license": 1,
+      "filename": "32170dc9-0c9d-4e4b-9c60-cf10b40e8af3.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "330e9817-6de1-4ae2-bf55-75c4bcbacb91",
+      "width": 1280,
+      "height": 960,
+      "license": 1,
+      "filename": "330e9817-6de1-4ae2-bf55-75c4bcbacb91.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "4523ce5c-8bb0-4b62-b5fe-19f1be7f865c",
+      "width": 1280,
+      "height": 960,
+      "license": 1,
+      "filename": "4523ce5c-8bb0-4b62-b5fe-19f1be7f865c.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "47c4d6fe-84af-4cdc-8c47-d145a3a3bd50",
+      "width": 1280,
+      "height": 960,
+      "license": 1,
+      "filename": "47c4d6fe-84af-4cdc-8c47-d145a3a3bd50.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "55e54506-1a3e-45c2-a89b-0bbc561215fd",
+      "width": 1280,
+      "height": 960,
+      "license": 1,
+      "filename": "55e54506-1a3e-45c2-a89b-0bbc561215fd.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "6373c908-5004-4985-8b40-425501fe84c5",
+      "width": 1280,
+      "height": 960,
+      "license": 1,
+      "filename": "6373c908-5004-4985-8b40-425501fe84c5.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "6691779f-a033-4045-a9f6-e422f91d77a3",
+      "width": 1280,
+      "height": 960,
+      "license": 1,
+      "filename": "6691779f-a033-4045-a9f6-e422f91d77a3.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "686328e0-9b6c-4e69-871f-44f505e4030d",
+      "width": 1280,
+      "height": 960,
+      "license": 1,
+      "filename": "686328e0-9b6c-4e69-871f-44f505e4030d.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "6af38cfc-5ef5-43f3-9687-d96c036d947e",
+      "width": 1280,
+      "height": 960,
+      "license": 1,
+      "filename": "6af38cfc-5ef5-43f3-9687-d96c036d947e.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "6b73e346-93f3-448a-91ce-06f58b1c1343",
+      "width": 1280,
+      "height": 960,
+      "license": 1,
+      "filename": "6b73e346-93f3-448a-91ce-06f58b1c1343.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "6fb64ec1-d9c5-413e-a389-4c03aefdd835",
+      "width": 1024,
+      "height": 768,
+      "license": 1,
+      "filename": "6fb64ec1-d9c5-413e-a389-4c03aefdd835.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "7400e074-7ad2-4a8c-8970-5bc34dfe77a2",
+      "width": 1280,
+      "height": 960,
+      "license": 1,
+      "filename": "7400e074-7ad2-4a8c-8970-5bc34dfe77a2.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "77df4662-d8a3-4014-93b3-a1336957b1a8",
+      "width": 1080,
+      "height": 1080,
+      "license": 1,
+      "filename": "77df4662-d8a3-4014-93b3-a1336957b1a8.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "87869a97-2088-4e6f-b75a-7ec331504c00",
+      "width": 1024,
+      "height": 768,
+      "license": 1,
+      "filename": "87869a97-2088-4e6f-b75a-7ec331504c00.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "87cf0314-6664-45c4-9b35-a11c216729b8",
+      "width": 1280,
+      "height": 960,
+      "license": 1,
+      "filename": "87cf0314-6664-45c4-9b35-a11c216729b8.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "8da06093-eb9f-4d10-b3cc-a2ecc0a52c79",
+      "width": 1280,
+      "height": 960,
+      "license": 1,
+      "filename": "8da06093-eb9f-4d10-b3cc-a2ecc0a52c79.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "956035e8-f866-4491-a43d-e11a13ec9763",
+      "width": 1280,
+      "height": 960,
+      "license": 1,
+      "filename": "956035e8-f866-4491-a43d-e11a13ec9763.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "98605e43-aa0e-4188-a788-ef8ef543ef85",
+      "width": 1280,
+      "height": 960,
+      "license": 1,
+      "filename": "98605e43-aa0e-4188-a788-ef8ef543ef85.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "99290d6e-ef00-48ee-978a-0d3804201f28",
+      "width": 1024,
+      "height": 768,
+      "license": 1,
+      "filename": "99290d6e-ef00-48ee-978a-0d3804201f28.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "9d4b05e5-c67f-4b6f-b046-0015a4668f2b",
+      "width": 1280,
+      "height": 960,
+      "license": 1,
+      "filename": "9d4b05e5-c67f-4b6f-b046-0015a4668f2b.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "a19f8d11-eb31-42aa-b87b-cab8dffa3ac1",
+      "width": 1280,
+      "height": 960,
+      "license": 1,
+      "filename": "a19f8d11-eb31-42aa-b87b-cab8dffa3ac1.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "a1a93a6b-dc32-4e51-973d-380e83db03ad",
+      "width": 1280,
+      "height": 960,
+      "license": 1,
+      "filename": "a1a93a6b-dc32-4e51-973d-380e83db03ad.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "a23a9e0c-1c34-40a3-a4c8-febd77d2981c",
+      "width": 1280,
+      "height": 960,
+      "license": 1,
+      "filename": "a23a9e0c-1c34-40a3-a4c8-febd77d2981c.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "a33a104c-5cf0-4654-855a-f692cf47f3b2",
+      "width": 768,
+      "height": 1024,
+      "license": 1,
+      "filename": "a33a104c-5cf0-4654-855a-f692cf47f3b2.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "b154bf1d-88be-4a09-befa-de09e4012ab8",
+      "width": 1280,
+      "height": 960,
+      "license": 1,
+      "filename": "b154bf1d-88be-4a09-befa-de09e4012ab8.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "b54edc81-940e-4c0e-bdb1-cd76d43ba7c7",
+      "width": 1080,
+      "height": 1080,
+      "license": 1,
+      "filename": "b54edc81-940e-4c0e-bdb1-cd76d43ba7c7.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "b7287837-06f8-43b6-97fe-f45c38bb74bd",
+      "width": 1280,
+      "height": 960,
+      "license": 1,
+      "filename": "b7287837-06f8-43b6-97fe-f45c38bb74bd.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "ba7f3bbf-92fe-4dac-bad2-cda36f7cfc21",
+      "width": 1280,
+      "height": 960,
+      "license": 1,
+      "filename": "ba7f3bbf-92fe-4dac-bad2-cda36f7cfc21.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "cdc917e4-27e7-477c-94b9-d85697710acb",
+      "width": 1024,
+      "height": 768,
+      "license": 1,
+      "filename": "cdc917e4-27e7-477c-94b9-d85697710acb.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "d1a0920c-1ee4-424b-8571-4a2a8a624faf",
+      "width": 1280,
+      "height": 960,
+      "license": 1,
+      "filename": "d1a0920c-1ee4-424b-8571-4a2a8a624faf.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "dac4d804-2468-4789-afb4-c1fdeb7ca938",
+      "width": 1280,
+      "height": 960,
+      "license": 1,
+      "filename": "dac4d804-2468-4789-afb4-c1fdeb7ca938.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "dbd5bdd3-dd18-4f27-b02b-d4fe954417dc",
+      "width": 1280,
+      "height": 960,
+      "license": 1,
+      "filename": "dbd5bdd3-dd18-4f27-b02b-d4fe954417dc.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "df121b5a-559b-4a00-b475-743595f05ddb",
+      "width": 1280,
+      "height": 960,
+      "license": 1,
+      "filename": "df121b5a-559b-4a00-b475-743595f05ddb.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "df408049-1c4d-4936-be1a-94b33be86074",
+      "width": 1024,
+      "height": 768,
+      "license": 1,
+      "filename": "df408049-1c4d-4936-be1a-94b33be86074.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "e0eea641-b858-4981-b051-374fa34ff9fd",
+      "width": 1280,
+      "height": 960,
+      "license": 1,
+      "filename": "e0eea641-b858-4981-b051-374fa34ff9fd.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "e1f0fe68-d1e2-4b92-bc30-0ad319ba7676",
+      "width": 1280,
+      "height": 960,
+      "license": 1,
+      "filename": "e1f0fe68-d1e2-4b92-bc30-0ad319ba7676.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "e54692b6-9e64-4560-924c-0046a00f18ce",
+      "width": 1280,
+      "height": 960,
+      "license": 1,
+      "filename": "e54692b6-9e64-4560-924c-0046a00f18ce.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "e9102845-4463-4867-8cec-5913c3daba3d",
+      "width": 1280,
+      "height": 960,
+      "license": 1,
+      "filename": "e9102845-4463-4867-8cec-5913c3daba3d.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "ea7385a4-a375-4928-b43e-010433c6efba",
+      "width": 1280,
+      "height": 960,
+      "license": 1,
+      "filename": "ea7385a4-a375-4928-b43e-010433c6efba.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "eadb9956-dd89-4c51-a31b-51e0f519f455",
+      "width": 1280,
+      "height": 960,
+      "license": 1,
+      "filename": "eadb9956-dd89-4c51-a31b-51e0f519f455.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "f1893e70-d743-41c2-81cf-14ed4a089b8a",
+      "width": 1280,
+      "height": 960,
+      "license": 1,
+      "filename": "f1893e70-d743-41c2-81cf-14ed4a089b8a.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "f7e6004d-58e3-48b3-93b0-64a236d95901",
+      "width": 1280,
+      "height": 960,
+      "license": 1,
+      "filename": "f7e6004d-58e3-48b3-93b0-64a236d95901.jpg",
+      "date_captured": "2022/10/01"
+    },
+    {
+      "id": "fa82f8f2-1f53-4725-bb67-d252308d55ab",
+      "width": 1024,
+      "height": 768,
+      "license": 1,
+      "filename": "fa82f8f2-1f53-4725-bb67-d252308d55ab.jpg",
+      "date_captured": "2022/10/01"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 3345,
+      "image_id": "07daedf7-49d9-479c-ac4a-c0a375c998ec",
+      "category_id": "1"
+    },
+    {
+      "id": 10660,
+      "image_id": "18bca4e3-eba7-4912-84ea-69ed664f6892",
+      "category_id": "1"
+    },
+    {
+      "id": 10772,
+      "image_id": "19027f38-289d-4391-91b5-03b8901baf3c",
+      "category_id": "1"
+    },
+    {
+      "id": 11710,
+      "image_id": "1b422f6b-1153-498a-958e-415ebb4d9fe9",
+      "category_id": "1"
+    },
+    {
+      "id": 13506,
+      "image_id": "1f782532-7c34-4d15-a00e-590bcd0252e9",
+      "category_id": "1"
+    },
+    {
+      "id": 17410,
+      "image_id": "28aaaea6-4f52-40b8-a7ae-149a54d6e5c0",
+      "category_id": "1"
+    },
+    {
+      "id": 18844,
+      "image_id": "2bfaabea-2511-4cc2-b9d3-944c619360dd",
+      "category_id": "1"
+    },
+    {
+      "id": 22283,
+      "image_id": "33fa728f-df32-4e89-9d00-b525fdbde134",
+      "category_id": "1"
+    },
+    {
+      "id": 24506,
+      "image_id": "393d692b-fe67-4367-8be4-0ade3c7cce49",
+      "category_id": "1"
+    },
+    {
+      "id": 28501,
+      "image_id": "42a17e7b-fbe9-4242-89fa-634e57f2dc18",
+      "category_id": "1"
+    },
+    {
+      "id": 33182,
+      "image_id": "4d2eaa1b-b9ed-4dae-a577-beba513020ee",
+      "category_id": "1"
+    },
+    {
+      "id": 34705,
+      "image_id": "50b4b333-e421-46af-a2d9-78b6157e79e3",
+      "category_id": "1"
+    },
+    {
+      "id": 40483,
+      "image_id": "5e5736e0-2943-4d3b-93f4-d6b63622fad9",
+      "category_id": "1"
+    },
+    {
+      "id": 43264,
+      "image_id": "6495605f-93c6-4a97-a384-52d78f27b482",
+      "category_id": "1"
+    },
+    {
+      "id": 44412,
+      "image_id": "6751dbf5-53c8-46f9-98a2-826aecaaadad",
+      "category_id": "1"
+    },
+    {
+      "id": 45606,
+      "image_id": "6a11d17a-141e-493d-83ca-7b910b56ff1b",
+      "category_id": "1"
+    },
+    {
+      "id": 49259,
+      "image_id": "72887861-ffa5-4456-8130-0353b9172803",
+      "category_id": "1"
+    },
+    {
+      "id": 50506,
+      "image_id": "756762b5-1554-4c85-9425-b1ba26e5b584",
+      "category_id": "1"
+    },
+    {
+      "id": 53448,
+      "image_id": "7c52705a-552b-4eed-8ee2-f969a116b9c5",
+      "category_id": "1"
+    },
+    {
+      "id": 56268,
+      "image_id": "831c25e3-675c-45e4-828c-b557cf7526ca",
+      "category_id": "1"
+    },
+    {
+      "id": 57368,
+      "image_id": "85b2c12e-73d0-445c-bfa2-383c1d913b4a",
+      "category_id": "1"
+    },
+    {
+      "id": 57529,
+      "image_id": "860feb07-1f8f-47b6-8fff-a7274f702512",
+      "category_id": "1"
+    },
+    {
+      "id": 57904,
+      "image_id": "86e66885-8efd-4e64-a3ed-2ebf2164da23",
+      "category_id": "1"
+    },
+    {
+      "id": 60577,
+      "image_id": "8d29f6db-53d0-4997-9d3d-588b346a3107",
+      "category_id": "1"
+    },
+    {
+      "id": 63006,
+      "image_id": "92b470eb-a815-441e-869d-df6775308c6a",
+      "category_id": "1"
+    },
+    {
+      "id": 63814,
+      "image_id": "94a339c9-5220-4d8c-a103-c757a785fbc5",
+      "category_id": "1"
+    },
+    {
+      "id": 69238,
+      "image_id": "a123bafc-aaaa-4d0f-85e0-ece314424136",
+      "category_id": "1"
+    },
+    {
+      "id": 71850,
+      "image_id": "a72fbd45-3d90-4b0a-8e5e-ad8acdc36224",
+      "category_id": "1"
+    },
+    {
+      "id": 73354,
+      "image_id": "aad10e13-abb4-410c-9ef0-b338a175c476",
+      "category_id": "1"
+    },
+    {
+      "id": 74400,
+      "image_id": "ad4412ce-6e92-4249-ba99-b2217321a90a",
+      "category_id": "1"
+    },
+    {
+      "id": 75669,
+      "image_id": "b035007a-834d-4e75-847e-8c6d737f7e73",
+      "category_id": "1"
+    },
+    {
+      "id": 76688,
+      "image_id": "b29146dc-1a36-4f2a-a02f-dd33b095ebc2",
+      "category_id": "1"
+    },
+    {
+      "id": 78603,
+      "image_id": "b6ea1592-00c8-4cf5-8f8b-90f022237663",
+      "category_id": "1"
+    },
+    {
+      "id": 79724,
+      "image_id": "b9903e7f-987c-4fd0-87ec-66503bfa3004",
+      "category_id": "1"
+    },
+    {
+      "id": 80870,
+      "image_id": "bc5157b5-fda5-489b-8f04-5685ea334e03",
+      "category_id": "1"
+    },
+    {
+      "id": 81373,
+      "image_id": "bd9bc3f2-c969-4199-b36f-29b03de7d30a",
+      "category_id": "1"
+    },
+    {
+      "id": 85873,
+      "image_id": "c82d9b54-31e5-48db-8e93-d888661110bf",
+      "category_id": "1"
+    },
+    {
+      "id": 87172,
+      "image_id": "cb5cce7d-222f-4bb0-909e-01e33bb5d46f",
+      "category_id": "1"
+    },
+    {
+      "id": 90748,
+      "image_id": "d37bc305-c104-497c-b069-c452b6f4c5c5",
+      "category_id": "1"
+    },
+    {
+      "id": 93535,
+      "image_id": "d9ff8276-9405-4571-8e9f-d32153201308",
+      "category_id": "1"
+    },
+    {
+      "id": 93557,
+      "image_id": "da0bc551-8400-4953-b777-64b301169939",
+      "category_id": "1"
+    },
+    {
+      "id": 98962,
+      "image_id": "e6baa678-80b6-4e61-a47c-97cf3b1a1b38",
+      "category_id": "1"
+    },
+    {
+      "id": 100815,
+      "image_id": "eafddd9f-a6eb-4537-a67f-9044ab632725",
+      "category_id": "1"
+    },
+    {
+      "id": 101198,
+      "image_id": "ebdd73ed-26af-4cd9-bf5e-6c51cca9c32f",
+      "category_id": "1"
+    },
+    {
+      "id": 101454,
+      "image_id": "ec733014-e198-40bb-b7a8-b7ba01071678",
+      "category_id": "1"
+    },
+    {
+      "id": 103340,
+      "image_id": "f0e543ec-9573-4e3f-b9ed-b695fc6f2002",
+      "category_id": "1"
+    },
+    {
+      "id": 103779,
+      "image_id": "f1e7e1b6-ec5e-47d9-961d-916122fade00",
+      "category_id": "1"
+    },
+    {
+      "id": 104014,
+      "image_id": "f27415ba-74e8-4c24-867a-73bdc20c559a",
+      "category_id": "1"
+    },
+    {
+      "id": 104659,
+      "image_id": "f3f18270-f664-44b9-9aca-246b6971c8a2",
+      "category_id": "1"
+    },
+    {
+      "id": 105643,
+      "image_id": "f65d344a-eaf7-4ae3-8f08-1995753e21c5",
+      "category_id": "1"
+    },
+    {
+      "id": 112480,
+      "image_id": "05d9179a-888e-47b0-a42e-3245202189fc",
+      "category_id": "2"
+    },
+    {
+      "id": 112993,
+      "image_id": "0701753c-d19d-4a18-bb00-26ff382d0b76",
+      "category_id": "2"
+    },
+    {
+      "id": 114306,
+      "image_id": "09cdb65f-3a48-4ebd-8c95-01beb680fef7",
+      "category_id": "2"
+    },
+    {
+      "id": 114656,
+      "image_id": "0aa2df67-8ac8-4d2f-92b2-9736bed97168",
+      "category_id": "2"
+    },
+    {
+      "id": 123014,
+      "image_id": "1cfd6b8b-d6a7-4fb7-ab81-a72119a681f0",
+      "category_id": "2"
+    },
+    {
+      "id": 127153,
+      "image_id": "26315895-df10-4b4d-b0b6-c69fe0ef92b5",
+      "category_id": "2"
+    },
+    {
+      "id": 129333,
+      "image_id": "2af0d631-27f5-464c-9f5c-18a63622955b",
+      "category_id": "2"
+    },
+    {
+      "id": 132624,
+      "image_id": "32170dc9-0c9d-4e4b-9c60-cf10b40e8af3",
+      "category_id": "2"
+    },
+    {
+      "id": 133075,
+      "image_id": "330e9817-6de1-4ae2-bf55-75c4bcbacb91",
+      "category_id": "2"
+    },
+    {
+      "id": 141395,
+      "image_id": "4523ce5c-8bb0-4b62-b5fe-19f1be7f865c",
+      "category_id": "2"
+    },
+    {
+      "id": 142566,
+      "image_id": "47c4d6fe-84af-4cdc-8c47-d145a3a3bd50",
+      "category_id": "2"
+    },
+    {
+      "id": 149138,
+      "image_id": "55e54506-1a3e-45c2-a89b-0bbc561215fd",
+      "category_id": "2"
+    },
+    {
+      "id": 155590,
+      "image_id": "6373c908-5004-4985-8b40-425501fe84c5",
+      "category_id": "2"
+    },
+    {
+      "id": 157048,
+      "image_id": "6691779f-a033-4045-a9f6-e422f91d77a3",
+      "category_id": "2"
+    },
+    {
+      "id": 157898,
+      "image_id": "686328e0-9b6c-4e69-871f-44f505e4030d",
+      "category_id": "2"
+    },
+    {
+      "id": 159093,
+      "image_id": "6af38cfc-5ef5-43f3-9687-d96c036d947e",
+      "category_id": "2"
+    },
+    {
+      "id": 159326,
+      "image_id": "6b73e346-93f3-448a-91ce-06f58b1c1343",
+      "category_id": "2"
+    },
+    {
+      "id": 161239,
+      "image_id": "6fb64ec1-d9c5-413e-a389-4c03aefdd835",
+      "category_id": "2"
+    },
+    {
+      "id": 163246,
+      "image_id": "7400e074-7ad2-4a8c-8970-5bc34dfe77a2",
+      "category_id": "2"
+    },
+    {
+      "id": 165033,
+      "image_id": "77df4662-d8a3-4014-93b3-a1336957b1a8",
+      "category_id": "2"
+    },
+    {
+      "id": 172282,
+      "image_id": "87869a97-2088-4e6f-b75a-7ec331504c00",
+      "category_id": "2"
+    },
+    {
+      "id": 172398,
+      "image_id": "87cf0314-6664-45c4-9b35-a11c216729b8",
+      "category_id": "2"
+    },
+    {
+      "id": 175112,
+      "image_id": "8da06093-eb9f-4d10-b3cc-a2ecc0a52c79",
+      "category_id": "2"
+    },
+    {
+      "id": 178561,
+      "image_id": "956035e8-f866-4491-a43d-e11a13ec9763",
+      "category_id": "2"
+    },
+    {
+      "id": 179940,
+      "image_id": "98605e43-aa0e-4188-a788-ef8ef543ef85",
+      "category_id": "2"
+    },
+    {
+      "id": 180303,
+      "image_id": "99290d6e-ef00-48ee-978a-0d3804201f28",
+      "category_id": "2"
+    },
+    {
+      "id": 182134,
+      "image_id": "9d4b05e5-c67f-4b6f-b046-0015a4668f2b",
+      "category_id": "2"
+    },
+    {
+      "id": 184120,
+      "image_id": "a19f8d11-eb31-42aa-b87b-cab8dffa3ac1",
+      "category_id": "2"
+    },
+    {
+      "id": 184137,
+      "image_id": "a1a93a6b-dc32-4e51-973d-380e83db03ad",
+      "category_id": "2"
+    },
+    {
+      "id": 184393,
+      "image_id": "a23a9e0c-1c34-40a3-a4c8-febd77d2981c",
+      "category_id": "2"
+    },
+    {
+      "id": 184867,
+      "image_id": "a33a104c-5cf0-4654-855a-f692cf47f3b2",
+      "category_id": "2"
+    },
+    {
+      "id": 191223,
+      "image_id": "b154bf1d-88be-4a09-befa-de09e4012ab8",
+      "category_id": "2"
+    },
+    {
+      "id": 192968,
+      "image_id": "b54edc81-940e-4c0e-bdb1-cd76d43ba7c7",
+      "category_id": "2"
+    },
+    {
+      "id": 193817,
+      "image_id": "b7287837-06f8-43b6-97fe-f45c38bb74bd",
+      "category_id": "2"
+    },
+    {
+      "id": 195384,
+      "image_id": "ba7f3bbf-92fe-4dac-bad2-cda36f7cfc21",
+      "category_id": "2"
+    },
+    {
+      "id": 204055,
+      "image_id": "cdc917e4-27e7-477c-94b9-d85697710acb",
+      "category_id": "2"
+    },
+    {
+      "id": 205794,
+      "image_id": "d1a0920c-1ee4-424b-8571-4a2a8a624faf",
+      "category_id": "2"
+    },
+    {
+      "id": 209991,
+      "image_id": "dac4d804-2468-4789-afb4-c1fdeb7ca938",
+      "category_id": "2"
+    },
+    {
+      "id": 210472,
+      "image_id": "dbd5bdd3-dd18-4f27-b02b-d4fe954417dc",
+      "category_id": "2"
+    },
+    {
+      "id": 211954,
+      "image_id": "df121b5a-559b-4a00-b475-743595f05ddb",
+      "category_id": "2"
+    },
+    {
+      "id": 212056,
+      "image_id": "df408049-1c4d-4936-be1a-94b33be86074",
+      "category_id": "2"
+    },
+    {
+      "id": 212782,
+      "image_id": "e0eea641-b858-4981-b051-374fa34ff9fd",
+      "category_id": "2"
+    },
+    {
+      "id": 213219,
+      "image_id": "e1f0fe68-d1e2-4b92-bc30-0ad319ba7676",
+      "category_id": "2"
+    },
+    {
+      "id": 214725,
+      "image_id": "e54692b6-9e64-4560-924c-0046a00f18ce",
+      "category_id": "2"
+    },
+    {
+      "id": 216404,
+      "image_id": "e9102845-4463-4867-8cec-5913c3daba3d",
+      "category_id": "2"
+    },
+    {
+      "id": 217053,
+      "image_id": "ea7385a4-a375-4928-b43e-010433c6efba",
+      "category_id": "2"
+    },
+    {
+      "id": 217260,
+      "image_id": "eadb9956-dd89-4c51-a31b-51e0f519f455",
+      "category_id": "2"
+    },
+    {
+      "id": 220266,
+      "image_id": "f1893e70-d743-41c2-81cf-14ed4a089b8a",
+      "category_id": "2"
+    },
+    {
+      "id": 223232,
+      "image_id": "f7e6004d-58e3-48b3-93b0-64a236d95901",
+      "category_id": "2"
+    },
+    {
+      "id": 224419,
+      "image_id": "fa82f8f2-1f53-4725-bb67-d252308d55ab",
+      "category_id": "2"
+    }
+  ]
+}
