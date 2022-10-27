@@ -16,9 +16,9 @@ This dataset consists of 226864 real-world images of printed text: 109725 images
 
 5. `sample-images` - Directory with the list of images referenced in `sample-image-list.json`.
 
-6. `image-list.json` - An almost-COCO formatted JSON with the list of all the images.
+6. `image-list.json.gz` - An almost-COCO formatted JSON with the list of all the images. The file is gzipped to reduce size.
 
-7. `images` - This directory contains all the images referenced in the JSON file. Note that the github repostory does not contain all these images. Please email givework@karya.in to get a download link to the full dataset!
+7. `images` - This directory contains all the images referenced in `image-list.json`. Note that the github repostory does not contain all these images. Please email givework@karya.in to get a download link to the full dataset!
 
 ## Attribution-NonCommercial-ShareAlike-FreeSoftware (BY-NC-SA-FS) 1.0
 
